@@ -1,0 +1,25 @@
+[dependencies]
+
+[lib]
+name = "stringutil"
+path = "src/lib.rs"
+
+[package]
+authors = ["zhuweiyou <i@zhuweiyou.com>"]
+autobenches = false
+autobins = false
+autoexamples = false
+autolib = false
+autotests = false
+build = false
+categories = ["text-processing"]
+description = "A collection of useful string utilities"
+documentation = "https://docs.rs/stringutil"
+edition = "2024"
+homepage = "https://github.com/zhuweiyou/stringutil"
+keywords = ["string", "utilities", "tool"]
+license = "MIT"
+name = "stringutil"
+readme = "README.md"
+repository = "https://github.com/zhuweiyou/stringutil"
+version = "0.1.0"
